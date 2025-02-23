@@ -6,7 +6,7 @@ Project Z is a cutting-edge lending platform within the decentralized finance (D
 
 ## Audit Summary
 
-This report outlines the findings from a comprehensive security audit conducted for **Project Zenith**. The audit targeted the project's smart contract suite with the objective of identifying and mitigating potential vulnerabilities, thereby strengthening the security and robustness of the project's blockchain infrastructure.
+This report outlines the findings from a comprehensive security audit conducted for **Project Z**. The audit targeted the project's smart contract suite with the objective of identifying and mitigating potential vulnerabilities, thereby strengthening the security and robustness of the project's blockchain infrastructure.
 
 ## Findings Summary
 
